@@ -46,6 +46,8 @@
 
 [Don't Fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) - Brian Beckman
 
+[Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY) - Scott Wlaschin
+
 [Haskell in the Newsroom](http://www.infoq.com/presentations/haskell-newsroom-nyt) - Erik Hinton
 
 [Always Be Composing](https://www.youtube.com/watch?v=3oQTSP4FngY)- Zach Tellman
