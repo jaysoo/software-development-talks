@@ -16,6 +16,10 @@
 
 [Invent the future, don't recreate the past](https://www.youtube.com/watch?v=uYcAjr2J_rU) - Reginald Braithwaite
 
+## Databases
+
+[Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0) - Martin Kleppmann
+
 ## Process and Organization
 
 [What We Actually Know About Software Development, and Why We Believe It's True](http://vimeo.com/9270320) - Greg Wilson
