@@ -66,6 +66,8 @@
 
 [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214) - Scott Wlaschin
 
+[Functional Programming from First Principles](https://www.youtube.com/watch?v=a-RAltgH8tw) - Erik Meijer
+
 ## Reactive Programming
 
 [Reactive Design & Language Paradigms](https://www.youtube.com/watch?v=4L3cYhfSUZs) - Dean Wample
