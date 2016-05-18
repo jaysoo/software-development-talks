@@ -16,6 +16,8 @@
 
 [Invent the future, don't recreate the past](https://www.youtube.com/watch?v=uYcAjr2J_rU) - Reginald Braithwaite
 
+[Constraints Liberate, Liberties Constrain](https://www.youtube.com/watch?v=GqmsQeSzMdw) - Runar Bjarnason
+
 ## Databases
 
 [Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0) - Martin Kleppmann
