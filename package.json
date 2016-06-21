@@ -1,0 +1,29 @@
+{
+  "name": "software-development-talks",
+  "version": "1.0.0",
+  "description": "[Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) - Rich Hickey",
+  "main": "populate-youtube-durations.js",
+  "scripts": {
+    "start": "node populate-youtube-durations",
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysoo/software-development-talks.git"
+  },
+  "author": "Jack Hsu <jack.hsu@gmail.com> (http://jaysoo.ca/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaysoo/software-development-talks/issues"
+  },
+  "homepage": "https://github.com/jaysoo/software-development-talks#readme",
+  "dependencies": {
+    "data.maybe": "^1.2.2",
+    "data.task": "^3.1.0",
+    "debug.trace": "^1.0.1",
+    "node-fetch": "^1.5.3",
+    "ramda": "^0.21.0",
+    "tape": "^4.6.0",
+    "union-type": "^0.3.1"
+  }
+}
