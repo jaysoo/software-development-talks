@@ -56,7 +56,7 @@
 
 [Haskell in the Newsroom](http://www.infoq.com/presentations/haskell-newsroom-nyt) - Erik Hinton
 
-[Always Be Composing](https://www.youtube.com/watch?v=3oQTSP4FngY)- Zach Tellman
+[Always Be Composing](https://www.youtube.com/watch?v=3oQTSP4FngY) [ 00:35:12 ] - Zach Tellman
 
 [Functional Programming for OO Development](https://www.youtube.com/watch?v=pMGY9ViIGNU) [ 00:51:14 ] - Jessica Kerr
 
